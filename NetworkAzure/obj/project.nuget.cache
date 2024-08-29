@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mBb7Z7Cfytjv7XYe4J9cbF+bzXi00WcE5Up528oeX+/foAXtKQv0+l1z03wzFj56L/X7eL1w5F2atPEtxdcIrg==",
+  "dgSpecHash": "zcK8Iy5HWNzW7gQTDuo0uLm7nJTeUEaW8BDCzGbdhMJFrAJ2UBsgn6b4+Ru+wo1uLPXiz4iqMxYXCEtATc6y8w==",
   "success": true,
   "projectFilePath": "/Users/adrian/Projects/NetworkAzure/NetworkAzure/NetworkAzure.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,10 @@
     "/Users/adrian/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/adrian/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/adrian/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/adrian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/adrian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/adrian/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/adrian/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/adrian/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }

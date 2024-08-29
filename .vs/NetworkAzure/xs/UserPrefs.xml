@@ -1,4 +1,18 @@
 ﻿<Properties StartupConfiguration="{8BBFE66C-3D0A-4979-B0A8-51EDD003DF33}|Default">
-  <MonoDevelop.Ide.ItemProperties.NetworkAzure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.NetworkAzure PreferredExecutionTarget="/Applications/Arc.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetworkAzure" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
